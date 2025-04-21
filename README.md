@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @briezzy
 - 👀 I’m interested in reading and coding websites
-- 🌱 I’m currently learning cybersecurity, computer networks, and SWE
+- 🌱 I’m currently learning Data Visualization, Database, and Algorithms
 - 💞️ I’m looking to collaborate on websites or any projects coming my way
 - 📫 How to reach me ... email me
 - 😄 Pronouns: She/Her
